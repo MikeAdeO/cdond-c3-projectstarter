@@ -42,7 +42,7 @@ jobs:
     default:
       jobs:
         - build-frontend
-      
+        - build-backend   
 
 
 
